@@ -1,0 +1,10 @@
+{
+  "persons": [
+    {
+      "id": 0,
+      "phoneNumber": "+48512331326",
+      "name": "Konrad",
+      "state": "false"
+    }
+  ]
+}
